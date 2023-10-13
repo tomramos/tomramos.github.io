@@ -11,5 +11,3 @@ redirect_from:
 I am a research scientist at [José Luiz Egydio Setúbal Foundation](https://fundacaojles.org.br/en/). 
 
 My research has been founded by several sources, including National Institute of Health, UCLA Fielding School of Public Health, Getúlio Vargas Foundation and Brazilian Ministry of Science and Technology. And it has been published in several major journals, including Social Science and Medicine, PlosOne and Population Health Metrics.
-
-You can reach me at [tomramos@g.ucla.edu](mailto:tomramos@g.ucla.edu).
