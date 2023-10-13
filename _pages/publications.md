@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: /research/
 author_profile: true
 ---
 - AP Ramos, MJ Flores, ML Ross (2020). [Where has democracy helped the poor? Democratic transitions and early-life mortality at the country level](https://doi.org/10.1016/j.socscimed.2020.113442). _Social Science & Medicine_, 265, 113442.
