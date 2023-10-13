@@ -22,12 +22,7 @@ author_profile: true
 - AP Ramos, RE Weiss, JS Heymann (2018). [Improving program targeting to combat early-life mortality by identifying high-risk births: an application to India](https://doi.org/10.1186/s12963-018-0172-6). _Population health metrics_, 16, 15.
 
 ****
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+# Work in progress
 
 ## Under review
 
