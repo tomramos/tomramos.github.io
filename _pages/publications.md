@@ -11,10 +11,18 @@ author_profile: true
 - AP Ramos, RE Weiss, JS Heymann (2018). [Improving program targeting to combat early-life mortality by identifying high-risk births: an application to India](https://doi.org/10.1186/s12963-018-0172-6). _Population health metrics_, 16, 15.
 
 ****
-# Work in progress
+%# Work in progress
+%
+%## Under review
+%- AP Ramos, CJ Hazlett, S Smith. Beyond poverty as a proxy: reducing inequality in infant mortality by identifying and targeting higher risk births. _R&R at Scientific Reports_.
+%
+%## In preparation
+%- AP Ramos, F Caldieraro, ML Nascimento, R Saldanha. Reducing Inequalities by using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable %Neonatal Deaths.
 
-## Under review
+# Working papers
 - AP Ramos, CJ Hazlett, S Smith. Beyond poverty as a proxy: reducing inequality in infant mortality by identifying and targeting higher risk births. _R&R at Scientific Reports_.
 
-## In preparation
-- AP Ramos, F Caldieraro, ML Nascimento, R Saldanha. Reducing Inequalities by using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths.
+****
+
+# Work in progress
+- AP Ramos, F Caldieraro, ML Nascimento, R Saldanha. Reducing Inequalities by using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal %Deaths.
