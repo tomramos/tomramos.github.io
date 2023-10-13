@@ -23,11 +23,9 @@ author_profile: true
 
 ****
 ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
+title: "Work in progress "
 ---
+
 %## Work in progress 
 ## Under review
 
