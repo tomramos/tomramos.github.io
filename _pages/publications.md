@@ -13,6 +13,7 @@ author_profile: true
 ****
 # Working papers
 - AP Ramos, CJ Hazlett, S Smith. Beyond poverty as a proxy: reducing inequality in infant mortality by identifying and targeting higher risk births. _R&R at Scientific Reports_.
+
 ****
 # Work in progress
 - AP Ramos, F Caldieraro, ML Nascimento, R Saldanha. Reducing Inequalities by using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths.
