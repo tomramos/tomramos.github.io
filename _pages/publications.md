@@ -26,7 +26,6 @@ author_profile: true
 title: "Work in progress "
 ---
 
-%## Work in progress 
 ## Under review
 
 - AP Ramos, CJ Hazlett, S Smith. Beyond poverty as a proxy: reducing inequality in infant mortality by identifying and targeting higher risk births. _R&R at Scientific Reports_.
