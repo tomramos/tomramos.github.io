@@ -23,7 +23,10 @@ author_profile: true
 
 ****
 ---
-title: "Work in progress "
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
 
 ## Under review
