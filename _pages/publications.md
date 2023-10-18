@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /research/
+permalink: /writings/
 author_profile: true
 ---
 - AP Ramos, MJ Flores, ML Ross (2020). [Where has democracy helped the poor? Democratic transitions and early-life mortality at the country level](https://doi.org/10.1016/j.socscimed.2020.113442). _Social Science & Medicine_, 265, 113442.
@@ -11,9 +11,28 @@ author_profile: true
 - AP Ramos, RE Weiss, JS Heymann (2018). [Improving program targeting to combat early-life mortality by identifying high-risk births: an application to India](https://doi.org/10.1186/s12963-018-0172-6). _Population health metrics_, 16, 15.
 
 ****
-# Working papers
-- AP Ramos, CJ Hazlett, S Smith. Beyond poverty as a proxy: reducing inequality in infant mortality by identifying and targeting higher risk births. _R&R at Scientific Reports_.
+# Under Review
+- "Beyond poverty as a proxy: reducing inequality in infant mortality by identifying and targeting higher risk births" (with Chad Hazlett and Stephen Smith). _R&R at Scientific Reports_.
+
+- [“Effects of Randomized Corruption Audits on Early-Life Mortality in Brazil”](https://ideas.repec.org/p/tor/tecipa/tecipa-733.html) (with Simeon Nitcher and Leiwen Gao).
+
+- [“Measuring Within and Between Group Inequality in Early-Life Mortality Over Time: A Bayesian Approach with Application to India”](https://arxiv.org/abs/1804.08570) (with Robert Weiss and Zack Almquist).
+  Under Review at Demography
+  
+- [“Explaining the Decline of Child Mortality in 44 Developing Countries: A Bayesian extension of Oaxaca Decomposition for Probit Random Effects Models”](https://arxiv.org/abs/2009.05417) (with Patrick Heuveline, Robert Weiss, Leiwen Gao and Martin Flores).
 
 ****
 # Work in progress
-- AP Ramos, F Caldieraro, ML Nascimento, R Saldanha. Reducing Inequalities by using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths.
+- ["Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths"](https://ideas.repec.org/p/tor/tecipa/tecipa-733.html) (with Fábio Cadieraro, Marcus Nascimento and Raphael Saldanha."
+
+- ["Has Democracy Reduced the Rich-Poor Gap in Child Mortality? An Analysis of 5 Million Births from 50 Developing Countries Since 1970"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466131).
+
+-"One pandemic is not like the other:  Contrasting Covid-19 against a New Pandemic" (with Fábio Caldieraro, Chad Hazlett and Marcus Nascimento). 
+
+
+
+
+
+
+
+  
