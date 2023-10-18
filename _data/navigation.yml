@@ -5,20 +5,13 @@ main:
   - title: "Research"
     url: /research/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Writings"
+    url: /writings/    
 
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Teaching"
+    url: /teaching/    
     
   - title: "CV"
     url: /files/resume.pdf
     
-  #- title: "Guide"
-  #  url: /markdown/
+  
