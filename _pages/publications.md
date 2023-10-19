@@ -17,7 +17,6 @@ author_profile: true
 - [“Effects of Anti-Corruption Audits on Early-Life Mortality: Evidence from Brazil”](https://ideas.repec.org/p/tor/tecipa/tecipa-733.html) (with Simeon Nitcher, Leiwen Gao and Gustavo J. Bobonis).
 
 - [“Measuring Within and Between Group Inequality in Early-Life Mortality Over Time: A Bayesian Approach with Application to India”](https://arxiv.org/abs/1804.08570) (with Robert Weiss and Zack Almquist).
-  Under Review at Demography
   
 - [“Explaining the Decline of Child Mortality in 44 Developing Countries: A Bayesian extension of Oaxaca Decomposition for Probit Random Effects Models”](https://arxiv.org/abs/2009.05417) (with Patrick Heuveline, Robert Weiss, Leiwen Gao and Martin Flores).
 
