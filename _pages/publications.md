@@ -14,7 +14,7 @@ author_profile: true
 # Under Review
 - "Beyond poverty as a proxy: reducing inequality in infant mortality by identifying and targeting higher risk births" (with Chad Hazlett and Stephen Smith). _R&R at Scientific Reports_.
 
-- [“Effects of Randomized Corruption Audits on Early-Life Mortality in Brazil”](https://ideas.repec.org/p/tor/tecipa/tecipa-733.html) (with Simeon Nitcher and Leiwen Gao).
+- [“Effects of Anti-Corruption Audits on Early-Life Mortality: Evidence from Brazil”](https://ideas.repec.org/p/tor/tecipa/tecipa-733.html) (with Simeon Nitcher, Leiwen Gao and Gustavo J. Bobonis).
 
 - [“Measuring Within and Between Group Inequality in Early-Life Mortality Over Time: A Bayesian Approach with Application to India”](https://arxiv.org/abs/1804.08570) (with Robert Weiss and Zack Almquist).
   Under Review at Demography
@@ -23,7 +23,7 @@ author_profile: true
 
 ****
 # Work in progress
-- ["Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths"](https://ideas.repec.org/p/tor/tecipa/tecipa-733.html) (with Fábio Cadieraro, Marcus Nascimento and Raphael Saldanha."
+- "Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths" (with Fábio Cadieraro, Marcus Nascimento and Raphael Saldanha."
 
 - ["Has Democracy Reduced the Rich-Poor Gap in Child Mortality? An Analysis of 5 Million Births from 50 Developing Countries Since 1970"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466131).
 
