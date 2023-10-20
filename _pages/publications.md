@@ -12,7 +12,7 @@ author_profile: true
 
 ****
 # Under Review
-- "Beyond poverty as a proxy: reducing inequality in infant mortality by identifying and targeting higher risk births" (with Chad Hazlett and Stephen Smith). _R&R at Scientific Reports_.
+- ["Beyond poverty as a proxy: reducing inequality in infant mortality by identifying and targeting higher risk births"](https://www.medrxiv.org/content/10.1101/2021.07.20.21260818v2) (with Chad Hazlett and Stephen Smith). _R&R at Scientific Reports_.
 
 - [“Effects of Anti-Corruption Audits on Early-Life Mortality: Evidence from Brazil”](https://ideas.repec.org/p/tor/tecipa/tecipa-733.html) (with Simeon Nitcher, Leiwen Gao and Gustavo J. Bobonis).
 
@@ -26,7 +26,7 @@ author_profile: true
 
 - ["Has Democracy Reduced the Rich-Poor Gap in Child Mortality? An Analysis of 5 Million Births from 50 Developing Countries Since 1970"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466131).
 
-- "One pandemic is not like the other:  Contrasting Covid-19 against a New Pandemic" (with Fábio Caldieraro, Chad Hazlett and Marcus Nascimento). 
+- "One pandemic is not like the other:  Contrasting COVID-19 against a New Pandemic" (with Fábio Caldieraro, Chad Hazlett and Marcus Nascimento). 
 
 
 
