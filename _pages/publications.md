@@ -22,7 +22,7 @@ author_profile: true
 
 ****
 # Work in progress
-- "Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths" (with Fábio Cadieraro, Marcus Nascimento and Raphael Saldanha."
+- "Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths" (with Fábio Cadieraro, Marcus Nascimento and Raphael Saldanha).
 
 - ["Has Democracy Reduced the Rich-Poor Gap in Child Mortality? An Analysis of 5 Million Births from 50 Developing Countries Since 1970"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466131).
 
