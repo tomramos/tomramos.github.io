@@ -14,8 +14,6 @@ author_profile: true
 
 ****
 # Under Review
-- ["Better individual-level risk models can improve the targeting and life-saving potential of early-mortality interventions"](https://www.medrxiv.org/content/10.1101/2021.07.20.21260818v3) (with Chad Hazlett and Stephen Smith). _R&R at Scientific Reports_.
-
 - [“Effects of Anti-Corruption Audits on Early-Life Mortality: Evidence from Brazil”](https://ideas.repec.org/p/tor/tecipa/tecipa-733.html) (with Simeon Nitcher, Leiwen Gao and Gustavo J. Bobonis).
 
 - [“Measuring Within and Between Group Inequality in Early-Life Mortality Over Time: A Bayesian Approach with Application to India”](https://arxiv.org/abs/1804.08570) (with Robert Weiss and Zack Almquist).
