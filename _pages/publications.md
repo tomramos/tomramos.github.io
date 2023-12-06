@@ -10,6 +10,8 @@ author_profile: true
 
 - AP Ramos, RE Weiss, JS Heymann (2018). [Improving program targeting to combat early-life mortality by identifying high-risk births: an application to India](https://doi.org/10.1186/s12963-018-0172-6). _Population health metrics_, 16, 15.
 
+- AP Ramos, Chad Hazlett, JS Stephen Smith ["Better individual-level risk models can improve the targeting and life-saving potential of early-mortality interventions"](https://www.medrxiv.org/content/10.1101/2021.07.20.21260818v3). _Forthcomming at Scientific Reports_.
+
 ****
 # Under Review
 - ["Better individual-level risk models can improve the targeting and life-saving potential of early-mortality interventions"](https://www.medrxiv.org/content/10.1101/2021.07.20.21260818v3) (with Chad Hazlett and Stephen Smith). _R&R at Scientific Reports_.
