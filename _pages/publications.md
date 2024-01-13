@@ -20,6 +20,9 @@ author_profile: true
   
 - [“Explaining the Decline of Child Mortality in 44 Developing Countries: A Bayesian extension of Oaxaca Decomposition for Probit Random Effects Models”](https://arxiv.org/abs/2009.05417) (with Patrick Heuveline, Robert Weiss, Leiwen Gao and Martin Flores).
 
+- - "Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths"(https://www.medrxiv.org/content/10.1101/2024.01.12.24301163v1) (with Fábio Cadieraro, Marcus Nascimento and Raphael Saldanha).
+
+
 ****
 # Work in progress
 - "Reducing Inequalities by Using an Unbiased Machine Learning Approach to Identify Births with the Highest Risk of Preventable Neonatal Deaths" (with Fábio Cadieraro, Marcus Nascimento and Raphael Saldanha).
