@@ -29,7 +29,7 @@ author_profile: true
 
 - ["Has Democracy Reduced the Rich-Poor Gap in Child Mortality? An Analysis of 5 Million Births from 50 Developing Countries Since 1970"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466131).
 
-- "One pandemic is not like the other:  Contrasting COVID-19 against a New Pandemic" (with Fábio Caldieraro, Chad Hazlett and Marcus Nascimento). 
+
 
 
 
