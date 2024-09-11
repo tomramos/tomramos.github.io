@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /writings/
 author_profile: true
 ---
-- AP Ramos, Chad Hazlett, JS Stephen Smith (2023). ["Better individual-level risk models can improve the targeting and life-saving potential of early-mortality interventions"](https://rdcu.be/ds5GL). _Scientific Reports_ volume 13, 21706.
+- AP Ramos, Chad Hazlett, JS Stephen Smith (2023). ["Better individual-level risk models can improve the targeting and life-saving potential of early-mortality interventions"](https://rdcu.be/ds5GL). _Scientific Reports_ volume 13, 21706 (Winer of IPUMS Global Health Research Award)
 
 - AP Ramos, MJ Flores, ML Ross (2020). [Where has democracy helped the poor? Democratic transitions and early-life mortality at the country level](https://doi.org/10.1016/j.socscimed.2020.113442). _Social Science & Medicine_, 265, 113442.
 
