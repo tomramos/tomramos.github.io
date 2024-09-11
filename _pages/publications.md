@@ -14,7 +14,7 @@ author_profile: true
 
 ****
 # Under Review
-- [“Effects of Anti-Corruption Audits on Early-Life Mortality: Evidence from Brazil”](https://ideas.repec.org/p/tor/tecipa/tecipa-733.html) (with Simeon Nitcher, Leiwen Gao and Gustavo J. Bobonis).
+- [“Effects of Anti-Corruption Audits on Early-Life Mortality: Evidence from Brazil”](https://ideas.repec.org/p/tor/tecipa/tecipa-733.html) (with Simeon Nitcher, and Gustavo J. Bobonis).
 
 - [“Measuring Within and Between Group Inequality in Early-Life Mortality Over Time: A Bayesian Approach with Application to India”](https://arxiv.org/abs/1804.08570) (with Robert Weiss and Zack Almquist).
   
