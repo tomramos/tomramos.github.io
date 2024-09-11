@@ -25,7 +25,7 @@ author_profile: true
 
 ****
 # Work in progress
-- "One pandemic is not like the other: A National Level Survey Contrasting COVID-19 against a New Pandemic". (with Antonio P. Ramos, Fabio Caldierado, Chad Hazlett)
+- "One pandemic is not like the other: A National Level Survey Contrasting COVID-19 against a New Pandemic". (Pre-Analysis Plan: https://osf.io/fea6m/) (with Antonio P. Ramos, Fabio Caldierado, Chad Hazlett)
 
 - ["Has Democracy Reduced the Rich-Poor Gap in Child Mortality? An Analysis of 5 Million Births from 50 Developing Countries Since 1970"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2466131).
 
